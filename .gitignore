@@ -13,3 +13,4 @@ obj/
 *.suo
 *.sln.docstates
 *.slnx
+*.csproj
