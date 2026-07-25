@@ -5,7 +5,13 @@ namespace Control_Flow_Level2
     {
         static void Main(string[] args)
         {
-          MultiplesOfNumber.FindMultiples();
+            //  MultiplesOfNumber.FindMultiples();
+            //FactorsOfnumber.FindFactors();
+            //// PowerOfNumber.FindPower();
+            //  YoungestAmongThree.FindYoungestAndTallest();
+            //GreatestFactorOfNumber.FindGreatestFactor();
+            // FizzBuzz2.PrintFizzBuzz();
+            PrimeNumber.CheckPrimeNumber();
         }
     }
 }
